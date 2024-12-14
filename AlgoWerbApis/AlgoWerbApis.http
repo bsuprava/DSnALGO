@@ -1,0 +1,6 @@
+@AlgoWerbApis_HostAddress = http://localhost:5209
+
+GET {{AlgoWerbApis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
